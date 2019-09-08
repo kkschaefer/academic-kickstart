@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Civil Engineering"
   institution = "UC Davis"
-  year = In Progress
+  year = "In Progress"
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
