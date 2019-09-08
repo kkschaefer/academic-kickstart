@@ -13,7 +13,7 @@ weight = 5
     "Flood Insurance",
     "Community Based Flood Insurance",
     "Flood Managment",
-    "Catastrophic Risk Management"
+    "Catastrophic Risk Management",
     "Extreme Value Estimates"
   ]
 
