@@ -24,13 +24,13 @@ weight = 5
   year = 2020
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MS Chemical Engineering"
+  institution = "University of Virginia"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc Civil Engineering"
+  institution = "University of Nebraska"
   year = 2008
  
 +++
