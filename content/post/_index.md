@@ -7,7 +7,7 @@ highlight = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = ""
+caption = "Dissertation Proposal"
 
 +++
-This is a test.  It is a lovely day.
+Findings from my disseration proposal.
