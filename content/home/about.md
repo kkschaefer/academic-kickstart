@@ -10,11 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Flood Insurance",
+    "Innovative Flood Risk Managment",
     "Community Based Flood Insurance",
-    "Flood Managment",
+    "Integrated Watershed Managment",
     "Catastrophic Risk Management",
     "Extreme Value Estimates"
+    "Climate Change Finance"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,4 +38,5 @@ weight = 5
 
 # Biography
 
-Kathleen Schaefer is currently working on her PHD.
+Kathleen is currently working on her PHD in Civil Engineering at UC Davis examining the question: Can Community Based Flood Insurance incentivise better flood risk management?
+
