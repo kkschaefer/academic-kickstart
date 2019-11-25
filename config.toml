@@ -44,17 +44,16 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "UC Davis", url = "" } ]
+  organizations = [ { name = "UC Davis", url = "https://watershed.ucdavis.edu/about/us" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  email = "kkschaefer@ucdavis.edu"
+  address = "Watershed Sciences Building, 1st Floor, University of California Davis, One Shields Avenue, Davis, CA 95616"
   phone = "510 292 9075"
-  skype = "echo123"
+  skype = "q100lady"
   telegram = ""
-
+  
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
 
@@ -205,12 +204,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "kkschaefer@ucdavis.edu"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/kathy100lady"
 
   [[params.social]]
     icon = "google-scholar"
@@ -220,8 +219,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/kkschaefer"
 
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "fa"
+    link = "//https://orcid.org/0000-0001-9061-5479"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -252,8 +255,8 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "Outside Interests"
+  url = "#outside"
   weight = 5
 
 [[menu.main]]
