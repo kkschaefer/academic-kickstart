@@ -14,7 +14,7 @@ weight = 5
     "Community Based Flood Insurance",
     "Integrated Watershed Managment",
     "Catastrophic Risk Management",
-    "Extreme Value Estimates"
+    "Extreme Value Estimates",
     "Climate Change Finance"
   ]
 
