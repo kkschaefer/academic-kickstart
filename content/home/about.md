@@ -20,7 +20,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Civil Engineering"
+  course = "PhD Candidate in Civil Engineering"
   institution = "UC Davis"
   year = 2020
 
