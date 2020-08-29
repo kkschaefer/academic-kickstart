@@ -49,7 +49,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "kkschaefer@ucdavis.edu"
-  address = "Watershed Sciences Building, 1st Floor, University of California Davis, One Shields Avenue, Davis, CA 95616"
+  #address = "Watershed Sciences Building, 1st Floor, University of California Davis, One Shields Avenue, Davis, CA 95616"
   phone = "510 292 9075"
   skype = "q100lady"
   telegram = ""
@@ -80,11 +80,11 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  #map = 0
+  #map_api_key = ""
+  #latitude = "37.4275"
+  #longitude = "-122.1697"
+  #zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
