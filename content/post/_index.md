@@ -10,4 +10,4 @@ image = ""
 caption = "Dissertation Proposal"
 
 +++
-Findings from my disseration proposal.
+This is my first post for my web site. Hello World!
