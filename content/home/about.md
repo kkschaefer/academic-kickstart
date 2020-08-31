@@ -15,8 +15,9 @@ weight = 5
     "Integrated Watershed Managment",
     "Catastrophic Risk Management",
     "Extreme Value Estimates",
-    "Climate Change Finance"
-    "Cooking"
+    "Climate Change Finance",
+    "Cooking",
+    "Fly Fishing"
   ]
 
 # List your qualifications (such as academic degrees).
