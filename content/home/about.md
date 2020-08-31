@@ -16,6 +16,7 @@ weight = 5
     "Catastrophic Risk Management",
     "Extreme Value Estimates",
     "Climate Change Finance"
+    "Cooking"
   ]
 
 # List your qualifications (such as academic degrees).
